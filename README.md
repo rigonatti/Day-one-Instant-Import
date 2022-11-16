@@ -5,19 +5,26 @@ This workflow should help to import any text, to Dayone (using DayOne2 CLI) with
 
 ## Installation
 
-Install DayOne CLI
-Download the plugin 
-Open the workflow
+* Install [DayOne CLI] (https://bit.ly/3TGsuOg)
+   * You can also install DayOneCLI using: 
+   ```
+   	sudo bash /Applications/Day\ One.app/Contents/Resources/install_cli.sh
+   ```
 
-[Optional]
-If you have multiples Journals oon DayOne App, you can set wich Journals will be used.
-If want to use the default Journal, leave it blank.
+* Download the plugin 
+* Open the workflow
+
+> [Optional]
+>      	If you have multiples Journals oon DayOne App, you can set wich Journals will be used.
+>	If want to use the default Journal, leave it blank.
 
 ## USAGE: 
 
 When typping in your favorite app like Bear, Stoic, TXT editor or any app, at the end of your entry, just type:
   
-  :dayone
+ ``` 
+ :dayone
+```
 
 > Alfred asks for your Entry Title:
 	-  Type your Entry Title 
