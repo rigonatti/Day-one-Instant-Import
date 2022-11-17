@@ -3,6 +3,11 @@
 
 This workflow should help to import any text, to Dayone (using DayOne2 CLI) without opening the app itself.  
 
+## See it in Action: 
+![Alfred dayone-instant-import Workflow] (URL da imagem)
+
+
+
 ## Installation
 
 * Install [DayOne CLI] (https://bit.ly/3TGsuOg)
