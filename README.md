@@ -1,4 +1,4 @@
-# Day-one-Instant-Import v1.0
+# Day-one-Instant-Import v1.1
 
 
 This workflow should help to import any text, to Dayone (using DayOne2 CLI) without opening the app itself.  
